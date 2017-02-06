@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AIDLDemo</string>
+    <string name="calculate">计算</string>
+</resources>
