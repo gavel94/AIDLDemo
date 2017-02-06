@@ -40,6 +40,18 @@
             android:layout_height="wrap_content"
             tools:text="123456"/>
 
+        <Button
+            android:id="@+id/btn_book"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/book"/>
+
+        <TextView
+            android:id="@+id/tv_book_dec"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="123456"/>
+
     </LinearLayout>
 </layout>
 

@@ -17,6 +17,12 @@ android {
         enabled true
     }
 
+    sourceSets {
+        main {
+            java.srcDirs = ['src/main/java', 'src/main/aidl']
+        }
+    }
+
     buildTypes {
         release {
             minifyEnabled false

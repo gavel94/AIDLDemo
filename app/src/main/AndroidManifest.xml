@@ -22,6 +22,12 @@
             </intent-filter>
         </service>
 
+        <service android:name=".serivce.BookService">
+            <intent-filter>
+                <action android:name="com.jiahua.memory.aidldemo.serivce.BookService" />
+            </intent-filter>
+        </service>
+
     </application>
 
 </manifest>
